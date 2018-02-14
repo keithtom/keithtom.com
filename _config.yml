@@ -1,0 +1,8 @@
+title: Keithtom.com
+description: keithtom.com
+google_analytics: UA-2903741-1
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
